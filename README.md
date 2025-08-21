@@ -12,12 +12,17 @@ Este projeto demonstra a capacidade de compreender o fluxo do código de um apli
 - Modo escuro funcional e sincronizado
 - Navegação automática após 5 segundos
 
+<img src="assets/entrada.jpg" alt="Tela de Splash" width="200"/>
+
+
 ### **Tela Inicial (Home)**
 - Navegação para agendamento de consultas
 - Lista de médicos disponíveis
 - Acesso ao perfil do usuário
 - Botão flutuante de agendamento rápido
 - Layout responsivo e organizado
+
+<img src="assets/tela-inicial.jpg" alt="Tela de Home" width="200"/>
 
 ### **Agendamento de Consultas**
 - Formulário completo com validação
@@ -26,11 +31,15 @@ Este projeto demonstra a capacidade de compreender o fluxo do código de um apli
 - Campos obrigatórios e opcionais
 - Confirmação de agendamento
 
+<img src="assets/agendar-consultas.jpg" alt="Tela de Agendamento" width="200"/>
+
 ### **Lista de Médicos**
 - Cards informativos dos médicos
 - Especialidades e experiência
 - Avaliações e descrições
 - Botão de agendamento direto
+
+<img src="assets/medicos.jpg" alt="Tela de Médicos" width="200"/>
 
 ### **Perfil do Usuário**
 - Criação e edição de perfil
@@ -38,6 +47,8 @@ Este projeto demonstra a capacidade de compreender o fluxo do código de um apli
 - Configurações do aplicativo
 - Modo escuro funcional
 - Persistência de dados local
+
+<img src="assets/perfil.jpg" alt="Tela de Perfil" width="200"/>
 
 ## 🛠️ **Tecnologias Utilizadas**
 
