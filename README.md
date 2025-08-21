@@ -22,7 +22,7 @@ Este projeto demonstra a capacidade de compreender o fluxo do código de um apli
 - Botão flutuante de agendamento rápido
 - Layout responsivo e organizado
 
-<img src="assets/tela-inicial.jpg" alt="Tela de Home" width="200"/>
+<img src="assets/tela-incial.jpg" alt="Tela de Home" width="200"/>
 
 ### **Agendamento de Consultas**
 - Formulário completo com validação
