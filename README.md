@@ -231,7 +231,11 @@ const styles = StyleSheet.create({
 ## 🤝 **Trabalho em Grupo**
 
 Este projeto foi desenvolvido seguindo as melhores práticas de desenvolvimento colaborativo:
-
+- [x] **RM550161 - Eduardo Osorio
+- [x] **RM550610 - Fabio Hideki
+- [x] **RM550260 - Pedro Moura
+- [x] **RM98896 - Rodrigo Fernandes
+      
 - **Discussão** sobre arquitetura e funcionalidades
 - **Documentação** compartilhada e revisada
 - **Padrões de código** estabelecidos em conjunto
